@@ -10,3 +10,4 @@ export const createPerson = (data) => {
     return api.post('/people', data);
 };
 
+export const deletePerson = (id) => api.delete(`/people/${id}`);

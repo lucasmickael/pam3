@@ -1,10 +1,21 @@
 {
-    "people": [
-        {
-            "id": 1,
-            "firstname": "João",
-            "lastname": "Silva",
-            "email": "joao@email.com"
-        }
-    ]
+  "people": [
+    {
+      "id": "1",
+      "firstname": "João",
+      "lastname": "Silva",
+      "email": "joao@email.com"
+    },
+    {
+      "id": "0a27",
+      "nome": "Marcos",
+      "email": "alexpintor040@gmail.com"
+    },
+    {
+      "id": "c521",
+      "nome": "José ",
+      "email": "jose@gmail.com"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
